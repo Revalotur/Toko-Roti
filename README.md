@@ -12,20 +12,3 @@
   Pengguna dapat memesan produk langsung melalui WhatsApp dengan satu klik.
 - <b>Desain Menarik</b><br>
   Antarmuka yang intuitif dan menarik untuk pengalaman pengguna yang baik.
-
-### BubbleBakery Demo:
-
-- <b>Home Page</b><br>
-  <a href="https://bubblevy.github.io/bubblebakery">https://bubblevy.github.io/bubblebakery</a>
-
-## Installation
-
-#### 1. Clone the repository
-
-```sh
-git clone https://github.com/bubblevy/bubblebakery.git
-```
-
-## License
-
-The BubbleMaps is open-sourced licensed under the [MIT license](https://github.com/bubblevy/bubblebakery/blob/main/LICENSE).
